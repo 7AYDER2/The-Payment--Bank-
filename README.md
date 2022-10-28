@@ -1,4 +1,5 @@
 # The-Payment--Bank-
 
 <h1>THE BANK PROJECT</h1>
-![Screenshot 2022-10-22 154306](https://user-images.githubusercontent.com/104260062/198701543-cf3c8ea9-bb6c-4e09-b7dc-24624e697fcd.png)
+
+![Screenshot 2022-10-22 182421](https://user-images.githubusercontent.com/104260062/198701695-a1eb4a91-5c9d-4e9b-a746-d09c4ff1fa8e.png)
