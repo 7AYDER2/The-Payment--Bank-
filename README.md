@@ -2,4 +2,4 @@
 
 <h1>THE BANK PROJECT</h1>
 
-![Screenshot 2022-10-22 182421](https://user-images.githubusercontent.com/104260062/198701695-a1eb4a91-5c9d-4e9b-a746-d09c4ff1fa8e.png)
+![Screenshot 2022-10-22 181801](https://user-images.githubusercontent.com/104260062/198701830-72ed6513-1f7a-472c-a3ad-6a33361c4c59.png)
